@@ -1,0 +1,40 @@
+/home/casey/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.deps.json
+/home/casey/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.runtimeconfig.json
+/home/casey/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.runtimeconfig.dev.json
+/home/casey/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.dll
+/home/casey/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.pdb
+/home/casey/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.csproj.CoreCompileInputs.cache
+/home/casey/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.AssemblyInfoInputs.cache
+/home/casey/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.AssemblyInfo.cs
+/home/casey/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.dll
+/home/casey/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.pdb
+/home/kmoney/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.deps.json
+/home/kmoney/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.runtimeconfig.json
+/home/kmoney/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.runtimeconfig.dev.json
+/home/kmoney/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.dll
+/home/kmoney/Documents/computer architecture/program1/bin/Debug/netcoreapp2.0/program1.pdb
+/home/kmoney/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.csproj.CoreCompileInputs.cache
+/home/kmoney/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.AssemblyInfoInputs.cache
+/home/kmoney/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.AssemblyInfo.cs
+/home/kmoney/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.dll
+/home/kmoney/Documents/computer architecture/program1/obj/Debug/netcoreapp2.0/program1.pdb
+/home/casey/Documents/computerArchitecture/program1/bin/Debug/netcoreapp2.0/program1.deps.json
+/home/casey/Documents/computerArchitecture/program1/bin/Debug/netcoreapp2.0/program1.runtimeconfig.json
+/home/casey/Documents/computerArchitecture/program1/bin/Debug/netcoreapp2.0/program1.runtimeconfig.dev.json
+/home/casey/Documents/computerArchitecture/program1/bin/Debug/netcoreapp2.0/program1.dll
+/home/casey/Documents/computerArchitecture/program1/bin/Debug/netcoreapp2.0/program1.pdb
+/home/casey/Documents/computerArchitecture/program1/obj/Debug/netcoreapp2.0/program1.csproj.CoreCompileInputs.cache
+/home/casey/Documents/computerArchitecture/program1/obj/Debug/netcoreapp2.0/program1.AssemblyInfoInputs.cache
+/home/casey/Documents/computerArchitecture/program1/obj/Debug/netcoreapp2.0/program1.AssemblyInfo.cs
+/home/casey/Documents/computerArchitecture/program1/obj/Debug/netcoreapp2.0/program1.dll
+/home/casey/Documents/computerArchitecture/program1/obj/Debug/netcoreapp2.0/program1.pdb
+/home/casey/Documents/computerArchitecture/program2/bin/Debug/netcoreapp2.0/program1.deps.json
+/home/casey/Documents/computerArchitecture/program2/bin/Debug/netcoreapp2.0/program1.runtimeconfig.json
+/home/casey/Documents/computerArchitecture/program2/bin/Debug/netcoreapp2.0/program1.runtimeconfig.dev.json
+/home/casey/Documents/computerArchitecture/program2/bin/Debug/netcoreapp2.0/program1.dll
+/home/casey/Documents/computerArchitecture/program2/bin/Debug/netcoreapp2.0/program1.pdb
+/home/casey/Documents/computerArchitecture/program2/obj/Debug/netcoreapp2.0/program1.csproj.CoreCompileInputs.cache
+/home/casey/Documents/computerArchitecture/program2/obj/Debug/netcoreapp2.0/program1.AssemblyInfoInputs.cache
+/home/casey/Documents/computerArchitecture/program2/obj/Debug/netcoreapp2.0/program1.AssemblyInfo.cs
+/home/casey/Documents/computerArchitecture/program2/obj/Debug/netcoreapp2.0/program1.dll
+/home/casey/Documents/computerArchitecture/program2/obj/Debug/netcoreapp2.0/program1.pdb
